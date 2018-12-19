@@ -4,7 +4,7 @@ import "./css/style.css";
 
 class SurveySubmit extends React.Component {
     render() {
-        return <p>Hello World</p>
+        return <p>Hello World!</p>
     }
 }
 
